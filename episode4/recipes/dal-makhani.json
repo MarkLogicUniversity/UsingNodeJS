@@ -1,0 +1,20 @@
+{
+  "recipe":
+    {
+      "name": "Dal Makhani",
+      "ingredients": ["urad dal", "kidney beans", "onions", "tomatoes", "butter", "salt", "chili powder"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Soak ¾ cup whole urad dal and ¼ cup kidney beans in water for 8 to 9 hours or overnight.",
+              "Drain urad dal and kidney beans.",
+              "Pressure cook for 18 to 20 whistles on a high flame, till both the urad dal and rajma have cooked thoroughly and softened.",
+              "In a blender or mixer jar place 2 large tomatoes or 200 grams of tomatoes, chopped.",
+              "In a pan, now heat 3 tbsp butter. you can use salted butter or unsalted butter.",
+              "Stir and saute the onions on a low flame till they become light golden.",
+              "Add the cooked urad dal and kidney beans along with the stock. Add 1 cup water or as required."
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "recipe":
+    {
+      "name": "Apple Pie",
+      "ingredients": ["double crust pie", "tart apples", "sugar", "butter", "cinnamon"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Place sliced apples in a large bowl.",
+              "In a small bowl, combine sugar and cinnamon.",
+              "Stir well and pour mixture over apples.",
+              "Cut half of butter into small pieces and add to apples.",
+              "Pour apples into pastry-lined pie pan.",
+              "Bake in preheated oven until apple filling is bubbly and crust is golden brown."
+            ]
+        }
+      }
+}

@@ -1,0 +1,17 @@
+{
+  "recipe":
+    {
+      "name": "Choclate Truffles",
+      "ingredients": ["bittersweet chocolate", "vanilla extract", "orange flavor", "cocoa powder"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Place chocolate in medium heat-proof bowl.",
+              "Stir in vanilla, orange flavor (if using)",
+              "Line baking sheet with parchment paper. Scoop 1½-tsp. mounds onto baking sheet with spoon.",
+              "Roll chilled chocolate mounds into smooth balls, then roll each in cocoa powder."
+            ]
+        }
+      }
+}

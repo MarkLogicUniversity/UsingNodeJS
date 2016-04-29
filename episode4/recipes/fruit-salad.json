@@ -1,0 +1,18 @@
+{
+  "recipe":
+    {
+      "name": "fruit salad",
+      "ingredients": ["apple", "banana", "orange", "grapes"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Rinse with water and cut the apple into cubes.",
+              "Cut the banana into slices.",
+              "Peel the orange, and separate each slice",
+              "Rinse grapes with warm water",
+              "Combine all ingredients in a bowl."
+            ]
+        }
+      }
+}

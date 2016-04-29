@@ -1,0 +1,15 @@
+{
+  "recipe":
+    {
+      "name": "cashew parmesan",
+      "ingredients": ["cashews", "garlic powder", "nutritional yeast"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Place all the ingredients and 1 tsp salt in a small food processor and blitz until it becomes a coarse powder.",
+              " Transfer to an airtight container and store in the cupboard for up to 1 week."
+            ]
+        }
+      }
+}

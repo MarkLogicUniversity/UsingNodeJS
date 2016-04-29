@@ -1,0 +1,12 @@
+{
+  "name": "MarkLogicUniversity-UsingNodeJS",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "MarkLogic University",
+  "license": "MIT",
+  "dependencies": {
+    "marklogic": "1.0.3",
+    "bluebird": "^2.9.26",
+    "request": "^2.55.0"
+  }
+}

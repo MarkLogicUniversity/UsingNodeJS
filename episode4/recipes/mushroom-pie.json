@@ -1,0 +1,20 @@
+{
+  "recipe":
+    {
+      "title": "Mushroom Pie",
+      "ingredients": ["cremini mushroom", "butter", "cream of mushroom soup", "mustard", "rosemary", "piecrust"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Coat large skillet with cooking spray, and heat",
+              "Add 2 lb. mushrooms, and cook 10 to 12 minutes",
+              "Carefully stir in ½ cup water, and cook until all liquid is evaporated.",
+              "Remove from heat, and stir in soup, mustard, and rosemary, and season with salt and pepper",
+              "Bake for 20 minutes",
+              "Reduce oven heat to 450°F, and bake 50 minutes to 1 hour more",
+              "Cool 15 minutes before serving."
+            ]
+        }
+      }
+}

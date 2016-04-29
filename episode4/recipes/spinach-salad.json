@@ -1,0 +1,15 @@
+{
+  "recipe":
+    {
+      "name": "Spinach Green Salad",
+      "ingredients": ["vegetable oil", "kiwi", "spinach", "chopped walnuts", "raspberry jam"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Mix together raspberry jam, and vegetable oil in a small container.",
+              "Combine spinach and kiwi in a salad bowl. Toss with walnuts dressing."
+            ]
+        }
+      }
+}

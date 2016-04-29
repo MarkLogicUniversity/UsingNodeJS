@@ -1,0 +1,17 @@
+
+{
+  "recipe":
+    {
+      "name": "tofu soup",
+      "ingredients": ["tofu", "carrots", "mushrooms", "coconut milk"],
+      "directions":
+        {
+          "preparation":
+            [
+              "chop all ingredients into small cubes.",
+              "combine all ingredients in a large pot.",
+              "cook on medium heat for 45 minutes"
+            ]
+        }
+      }
+}

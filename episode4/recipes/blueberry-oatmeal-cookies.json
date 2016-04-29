@@ -1,0 +1,18 @@
+{
+  "recipe":
+    {
+      "name": "blueberry oatmeal cookies",
+      "ingredients": ["quick oats", "blueberries", "whole-wheat flour", "baking soda", "brown sugar"],
+      "equipment": ["Large mixing bowl", "Baking pan", "Measuring cups and spoons"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Coat baking pan with cooking spray.",
+              "Place all of the ingredients into a large bowl and mix.",
+              "Pour into prepared pan and bake for 30 minutes.",
+              "Allow to cool for 15 minutes and cut into circles."
+            ]
+        }
+      }
+}

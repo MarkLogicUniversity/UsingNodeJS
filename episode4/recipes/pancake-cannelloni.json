@@ -1,0 +1,19 @@
+{
+  "recipe":
+    {
+      "name": "Pancake cannelloni",
+      "ingredients": ["meatballs", "fresh spinach", "basil pesto", "ricotta", "pancakes"],
+      "directions":
+        {
+          "preparation":
+            [
+              "Heat the grill to high and cook the meatballs for 20 mins",
+              "Mix the spinach with the pesto, ricotta and egg, then season to taste",
+              "Divide the spinach mixture between the pancakes, spreading it out in a long strip in the centre.",
+              "Add meatball pieces to each one, then roll the pancake up to seal in the filling.",
+              "Bake for 40 mins until the cheese is melted",
+              "Scatter over basil leaves to serve"
+            ]
+        }
+      }
+}
